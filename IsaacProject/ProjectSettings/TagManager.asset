@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Layouts
+  - Room
+  - OpenDoor
+  - ClosedDoor
+  - LockedDoor
+  - Wall
+  - ClosedRoom
+  - Door
+  - Fireball
+  - PrefabManager
+  - NotificationText
+  - Pathfinding
+  - DoorL
+  - DoorD
+  - HealthItem
+  - SpeedItem
+  - ShotRangeItem
+  - FireRateItem
+  - DamageItem
+  - DoorU
+  - DoorR
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Projectile
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 3876350017
+    locked: 0
+  - name: Floor
+    uniqueID: 4140986999
+    locked: 0
+  - name: Rocks
+    uniqueID: 678639111
+    locked: 0
+  - name: Items
+    uniqueID: 3201761951
+    locked: 0
+  - name: Decorations
+    uniqueID: 544215423
+    locked: 0
+  - name: Door
+    uniqueID: 2364664385
+    locked: 0
+  - name: Enemies
+    uniqueID: 85888795
+    locked: 0
+  - name: Player
+    uniqueID: 3010668269
+    locked: 0
